@@ -1,4 +1,22 @@
+certifi
+chardet
+Click
+clickclick
+connexion
+idna
+inflection
+itsdangerous
+Jinja2
+jsonschema
+MarkupSafe
+openapi-spec-validator
+pathlib
+ptyprocess
+python-dateutil
+PyYAML
+requests
+six
 tornado
-connexion == 1.1.15
-python_dateutil == 2.6.0
-setuptools >= 21.0.0
+urllib3
+Werkzeug
+zc.buildout
