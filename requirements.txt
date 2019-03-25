@@ -9,7 +9,6 @@ itsdangerous
 Jinja2
 jsonschema
 MarkupSafe
-openapi-spec-validator
 pathlib
 ptyprocess
 python-dateutil
@@ -20,3 +19,6 @@ tornado
 urllib3
 Werkzeug
 zc.buildout
+markdown2
+jsonref
+flex
